@@ -21,5 +21,12 @@ Additionally
 Differentiable slic
 Refer the depthEstimation.ipynb notebook for step by step implementation details to obtain optical flow and compute depth using airsim data which is present [here](https://drive.google.com/drive/folders/16V2-7NOEKJjsb3ChHGXy3AGudNjWGqA-?usp=sharing) 
 
+# Reference Material:
+1. Superpixel Segmentation with Fully Convolutional Networks : https://arxiv.org/pdf/2003.12929.pdf
 
+2. Superpixel Sampling Networks : https://arxiv.org/pdf/1807.10174.pdf
+
+3. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE. https://arxiv.org/pdf/2010.11929.pdf
+
+4. Datasets: https://theairlab.org/tartanair-dataset/
 
